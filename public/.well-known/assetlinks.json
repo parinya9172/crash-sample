@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tech.pdkm.crash_sample.d",
+    "sha256_cert_fingerprints":
+    ["22:E5:41:31:96:B8:CD:D1:CF:5C:55:57:E7:EA:4B:56:CE:33:B5:04:2D:C8:C9:49:67:91:8E:F7:DA:90:B1:66"]
+  }
+}]

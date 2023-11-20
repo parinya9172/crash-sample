@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+         {
+           "appID": "8UTNY26ZS3.tech.pdkm.crashSample.dev",
+           "paths": ["*"]
+         },
+         {
+           "appID": "8UTNY26ZS3.tech.pdkm.crashSample",
+           "paths": ["*"]
+         }
+    ]
+  }
+}
